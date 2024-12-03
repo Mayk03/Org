@@ -19,3 +19,16 @@
     right: 30%;
     cursor: pointer;
 }
+
+@media(max-width: 768px){
+    .orgSection img{
+        width: 10%;
+        right: 20%;
+    }
+}
+@media(max-width: 480px){
+    .orgSection img{
+        width: 15%;
+        right: 9%;
+    }
+}

@@ -19,3 +19,13 @@
     font-weight: 400;
     color: #212121;
 }
+@media(max-width: 768px){
+    .formulario h2{
+        font-size: 22px;
+    }
+}
+@media(max-width: 480px){
+    .formulario h2{
+        font-size: 20px;
+    }
+}
